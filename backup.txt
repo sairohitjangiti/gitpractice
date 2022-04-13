@@ -1,0 +1,97 @@
+To create mentor
+[{
+    "mentorName":"Raghav",
+    "mail":"raghav@yahoo.com",
+    "mobileNo":"9865327014",
+    "expertin":"MERN Stack",
+    "studentsAssigned":["Mano","Rakesh"]
+},
+{
+    "mentorName":"Rajesh",
+    "mail":"rajesh@msn.com",
+    "mobileNo":"7845301296",
+    "expertin":"Data Structure",
+    "studentsAssigned":[]
+},
+{
+    "mentorName":"Karthick",
+    "mail":"karthick@yahoo.com",
+    "mobileNo":"8052416397",
+    "expertin":"NodeJS",
+    "studentsAssigned":[]
+},
+{
+    "mentorName":"Natarajan",
+    "mail":"natarajan@gmail.com",
+    "mobileNo":"9865470213",
+    "expertin":"Javascript",
+    "studentsAssigned":["Ajaaz","Rayed"]
+},
+{
+    "mentorName":"Mariappan",
+    "mail":"mariappan@yahoo.com",
+    "mobileNo":"7456819203",
+    "expertin":"Data Science",
+    "studentsAssigned":["Dhanajay","Govardhan","Gowind"]
+}]
+To create student
+[{
+    "studentName":"Mega",
+    "studentMail":"mega@gmail.com",
+    "course":"React",
+    "mentorAssigned":""
+},
+{
+    "studentName":"Mano",
+    "studentMail":"mano@gmail.com",
+    "course":"MERN Stack",
+    "mentorAssigned":"Raghav"
+},
+{
+    "studentName":"Dhanajay",
+    "studentMail":"dhanajay@yahoo.com",
+    "course":"Data Scientist",
+    "mentorAssigned":"Mariappan"
+},
+{
+    "studentName":"Rayed",
+    "studentMail":"rayed@gmail.com",
+    "course":"javascript",
+    "mentorAssigned":"Natarajan"
+},
+{
+    "studentName":"Govardhan",
+    "studentMail":"govardhan@gmail.com",
+    "course":"Data Scientist",
+    "mentorAssigned":"Mariappan"
+},
+{
+    "studentName":"Thaarik",
+    "studentMail":"thaarik@gmail.com",
+    "course":"React",
+    "mentorAssigned":""
+},
+{
+    "studentName":"Rakesh",
+    "studentMail":"rakesh@gmail.com",
+    "course":"MERN Stack",
+    "mentorAssigned":"Raghav"
+},
+{
+    "studentName":"Raghav",
+    "studentMail":"raghav@yahoo.com",
+    "course":"Data Structure",
+    "mentorAssigned":""
+},
+{
+    "studentName":"Ajaaz",
+    "studentMail":"ajaaz@gmail.com",
+    "course":"javascript",
+    "mentorAssigned":""
+},
+{
+    "studentName":"Gowind",
+    "studentMail":"gowind@gmail.com",
+    "course":"Data Scientist",
+    "mentorAssigned":""
+}]
